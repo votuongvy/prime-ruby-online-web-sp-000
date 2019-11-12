@@ -10,5 +10,5 @@ def prime?(n)
       end
     end
   end
-  return true
+  return true #def prime? is true unless it go through if to return false
 end
